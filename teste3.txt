@@ -1,0 +1,5 @@
+#len() conta quantos itens existem na lista
+
+#O laço 'for'percorre a lista item por item.
+#enumarate()entrega a posiçao (indice)e o valor(cliente)
+#somamos +1 porque python começa a contar do 0
